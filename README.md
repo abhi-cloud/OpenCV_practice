@@ -1,2 +1,2 @@
-# openCV_practice
+# OpenCV_practice
 Practice/implementation of OpenCV
