@@ -3,11 +3,11 @@
 
 As of now, I have learned the following methods/techniques in OpenCV (still learning):
 1. Basic reading/writing of images/videos in different colorScales.
-2. Adding geometric shapes in images/videos (both are same thing).
+2. Adding geometric shapes in images/videos (both are the same thing).
 3. Handling mouse events.
 4. Functions available for handling of images(get/set methods).
 5. Bitwise operations
-6. Adding trackbars for adjusting various prperties.
+6. Adding trackbars for adjusting various properties.
 7. Object detection using HSV ColorSpace in images, therefore in videos too.
 8. Simple/Adaptive Thresholding
 9. Basics of Matplotlib
